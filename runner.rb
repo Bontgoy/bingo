@@ -7,4 +7,6 @@ new_game = Game.new(["Ty", "Andrew", "Emmanuel", "Lucas", "Jen"])
 	new_game.draw
 end
 
+puts "Test for PR"
+
 p new_game.players
