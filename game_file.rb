@@ -4,7 +4,6 @@ class Game
   def initialize(players)
     @players = set_players(players)
     @letters = ["B", "I", "N", "G", "O"]
-    puts "hello"
   end
 
   def draw
