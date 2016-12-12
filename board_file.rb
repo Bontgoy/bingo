@@ -3,7 +3,7 @@ class Board
 
 	def initialize
 		@board = create_board
-		puts "The board has loaded"
+		puts "Hello! The board has loaded."
 	end
 
 	protected
